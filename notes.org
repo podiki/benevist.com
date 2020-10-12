@@ -1,0 +1,13 @@
+- didgooder.com
+- didgood.info
+- dailygood.info
+- benifeed.com
+
+
+* registrar and hosting
+- [[https://www.techradar.com/news/best-domain-registrars-in-2019][Best domain registrars in 2020 | TechRadar]]
+- [[https://www.netlify.com/][Netlify: All-in-one platform for automating modern web projects]]
+
+* static site generators
+- [[https://www.getzola.org/][Zola]]
+- [[https://blog.getpelican.com/][Pelican Static Site Generator, Powered by Python]]

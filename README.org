@@ -1,0 +1,11 @@
+#+TITLE: Readme for benifeed.com
+
+To update the theme, run
+#+begin_src sh
+  git submodule update --rebase --remote
+#+end_src
+
+* Tasks [0/3]
+** TODO Register twitter name (update config)
+** TODO Disqus?
+** TODO Avatar image
