@@ -1,0 +1,19 @@
+#+TITLE: Welcome to Benevist!
+#+DESCRIPTION: Introducing a website dedicated to making it easier to make the world better, locally and globally
+#+DATE: 2020-10-24T16:00:00-04:00
+#+IMAGE: tim-mossholder-8R-mXppeakM-unsplash.jpg
+#+CATEGORIES[]: Announcement
+#+TAGS[]: benevist
+
+Welcome everyone! I'm very pleased to be launching a website I have been thinking about for some time. There's a lot going on in the world right now, which is always true, but certainly feels especially so in 2020. With so many important issues calling out for attention and more importantly action, it is all too easy to be overwhelmed, feel like you aren't doing enough, or simply not know where to start.
+
+That's how I've been feeling, and I want to change that with benevist.com.
+
+This site will have a few posts a week at most, each short and to the point: what is the problem or cause, and what you can do to help, right now. The aim is to keep it simple and direct, something you can do right away and easily. This could be a quick donation, starting to learn more about something happening, signing up to volunteer your time or skills, helping get the word out...
+
+Benevist.com is not meant to be a one stop shop, an exhaustive resource, or a way to direct a donation and be done. We don't solve real problems or make real change happen in a few minutes, but we can certainly get started. So I hope this will become a jumping off point, a way to start learning about what is happening in this world, and what we can do to help.
+
+I don't have all the answers or know what is best to do. But I want to start doing more, little by little. I hope you will join me, point me in the right direction, and help spread the message. I'm excited for what we can do together.
+
+#+ATTR_HTML: :class credits
+[[https://unsplash.com/photos/8R-mXppeakM][Photo]] by [[https://unsplash.com/@timmossholder][Tim Mossholder]] on [[https://unsplash.com][Unsplash]]

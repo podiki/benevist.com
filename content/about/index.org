@@ -1,7 +1,13 @@
----
-title: "About Benifeed"
-date: 2020-10-12T15:14:26-04:00
-mod: 2020-10-12T16:00:00-04:00
----
+#+TITLE: About Benevist
+#+DATE: 2020-10-24T15:00:00-04:00
+# +CATEGORIES[]: About
 
-This is a website.
+Benevist.com aims to be a starting point for anyone to get more involved in helping make the world a better place. We aim to briefly outline a particular issue, cause, group, etc. and how you can learn more, donate money, or otherwise help make a positive impact. This is not meant to be comprehensive or the only website to visit, but as hopefully the easiest way to get started in learning and doing more. It is just a first step, and every little bit counts. There's a lot to care about, and a lot to do, and we aim to make it easier to help those around you.
+
+* Contact
+Please get in touch! Happy to hear any comments, helpful resources, questions, or anything else. You can get in touch with me via
+- *Twitter*: [[https://twitter.com/benevist][@benevist]]
+- *Email*: benevist at pm.me
+
+* Credits
+This website is built with [[https://gohugo.io/][Hugo]] with a theme is based on [[https://github.com/CaiJimmy/hugo-theme-stack][Stack by Jimmy Cai]], and hosted through [[https://www.netlify.com/][Netlify]] and [[https://github.com/podiki/benevist.com][GitHub]].

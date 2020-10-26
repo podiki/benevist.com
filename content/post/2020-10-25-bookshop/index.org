@@ -1,0 +1,35 @@
+#+TITLE: Save Your Local Bookstores
+#+DESCRIPTION: Support your local bookstores with the ease and comfort of online ordering
+#+DATE: 2020-10-25T16:00:00-04:00
+#+IMAGE: ivo-rainha-Lg9NLmu4B_A-unsplash.jpg
+#+TAGS[]: local shopping
+#+ATTR_HTML: :class article-content
+
+* What's the Cause?
+/Keeping local, independent bookstores in business/
+
+* What Can We Do?
+/When you can't shop in-store or directly with a store, use [[https://bookshop.org][Bookshop.org]] (US only[fn:1])/
+
+* Read More
+One of my favorite activities is to wander my local bookstores, whether on the hunt for something on my reading list or just to browse. To me, local and independently owned bookstores are a part of the vital core of a neighborhood, one of the local businesses that helps a neighborhood thrive and be welcoming. Unfortunately, even in the best of times they are up against the likes of Amazon, and now suffering like so many local businesses as we continue through the pandemic.
+
+Enter [[https://bookshop.org/][Bookshop.org]], a new online bookstore with the goal of supporting local, independent booksellers. They do this through sharing profits, even with unaffiliated bookstores. Authors and other groups can also partner with them for a commission and a matching amount to bookstores. Partnered stores will even receive the entire profit margin, which is simply great. Read more on their [[https://bookshop.org/pages/about][about page]].
+
+I happily ordered from them recently, quick and easy with 10% of the money I spent going to a pool that is shared with all bookstores. I also interacted with their customer service (minor damage to a couple of books), who were quick to respond and more than accommodating..
+
+#+ATTR_HTML: :alt The bookshop.org homepage :title The bookshop.org homepage
+#+ATTR_HTML: :style padding: 0 var(--card-padding);
+#+CAPTION: The homepage of bookshop.org, highlighting nearly $7.5 million raised so far.
+[[file:bookshop-screenshot.png]]
+
+I've missed my browsing at local bookstores, though have been managing to go back a little recently (wearing a mask and keeping my distance of course!). A few days ago, I had a chat with the very nice owner of a neighborhood bookstore, and asked about their affiliation with bookshop.org (as advertised in window fliers). While I was happy to see them open, they had a storewide sale which immediately makes me worry about how they are faring. Fortunately, they are still managing, and told me bookshop.org has been a lifeline. While it won't cover their expenses, they are seeing a steady $300/month, money that he said had just been lying around. In other words, not sales they would have had otherwise, but money people just didn't have a way to spend with them (or likely went to Amazon.)
+
+And if you must shop at Amazon (I've been cutting back a lot, but not there all the way yet), you can use [[https://smile.amazon.com/gp/chpf/about/][AmazonSmile]], where a portion of sales goes to a charity of your choice. While it is a tiny amount on each order (only 0.5%), it is something.
+
+But for books, use  [[https://bookshop.org/][Bookshop.org]]. Help keep local, independent bookstores alive!
+
+#+ATTR_HTML: :class credits
+Header [[https://unsplash.com/photos/Lg9NLmu4B_A][photo]] by [[https://unsplash.com/@ivoafr][Ivo Rainha]] on [[https://unsplash.com][Unsplash]], screenshot from homepage of [[https://bookshop.org/][bookshop.org]].
+
+[fn:1]  [[https://bookshop.org][Bookshop.org]] is currently for the US only. If you are outside the US, you can try shopping in person, which is probably safer where you are than here, or try ordering from stores directly, online or by phone. Cash will also put a little more in their pockets.

@@ -1,7 +1,0 @@
-#+TITLE: Welcome to Benifeed!
-#+DESCRIPTION: The welcome post.
-#+DATE: 2020-10-12T15:18:19-04:00
-
-This will be the welcome post.
-
-More will be here.
