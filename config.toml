@@ -1,10 +1,10 @@
-baseurl = "https://benifeed.com"
+baseurl = "https://benevist.com"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 paginate = 5
-title = "Benifeed"
-#disqusShortname = "hugo-theme-stack"            # Change it to your Disqus shortname before using
-DefaultContentLanguage = "en"                   # Theme i18n support
+title = "Benevist"
+#disqusShortname = "hugo-theme-stack"
+DefaultContentLanguage = "en"
 
 [permalinks]
     post = "/p/:slug/"
@@ -21,7 +21,7 @@ DefaultContentLanguage = "en"                   # Theme i18n support
         
     [params.sidebar]
         emoji = "🦸🏽‍♀️"
-        avatar = "img/avatar.png"
+        avatar = "img/avatar.jpg"
         subtitle = "Do good in your neighborhood, and beyond."
         
     [params.article]
@@ -40,7 +40,7 @@ DefaultContentLanguage = "en"                   # Theme i18n support
             theme = "preferred-color-scheme"
             
     [params.widgets]
-        enabled = ['archives', 'tag-cloud']
+        enabled = ['tag-cloud', 'archives'] # 'archives', 
         [params.widgets.archives]
             limit = 5
             ### Archives page relative URL
@@ -50,7 +50,7 @@ DefaultContentLanguage = "en"                   # Theme i18n support
             
     [params.opengraph]
         [params.opengraph.twitter]
-            site = ""
+            site = "benevist"
             card = "summary_large_image"
             
     [params.defaultImage]
@@ -72,12 +72,12 @@ DefaultContentLanguage = "en"                   # Theme i18n support
         url = "about"
         weight = -90
         pre = "user"
-    [[menu.main]]
-        identifier = "archives"
-        name = "Archives"
-        url = "archives"
-        weight = -70
-        pre = "archives"
+    # [[menu.main]]
+    #     identifier = "archives"
+    #     name = "Archives"
+    #     url = "archives"
+    #     weight = -70
+    #     pre = "archives"
 
 [related]
     includeNewer = true

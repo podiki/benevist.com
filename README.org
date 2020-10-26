@@ -5,7 +5,9 @@ To update the theme, run
   git submodule update --rebase --remote
 #+end_src
 
-* Tasks [0/3]
-** TODO Register twitter name (update config)
+* Tasks [1/5]
+** DONE Register twitter name (update config)
 ** TODO Disqus?
-** TODO Avatar image
+** TODO Update avatar image
+** TODO [[https://github.com/alhassy/org-special-block-extras][org-special-block-extras]] for a Netlify badge (and others?)
+** TODO Archives
