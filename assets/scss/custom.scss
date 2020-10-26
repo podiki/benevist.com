@@ -1,0 +1,25 @@
+@import "style.scss";
+
+.outline-text-2 {
+      @extend .article-content;
+      margin-top: -2em;
+  }
+
+// Add style for credits at end of articles
+.credits {
+    color: var(--body-text-color);
+    font-weight: normal;
+    font-size: 1.5rem;
+}
+
+// Add style for footnotes
+.footnotes {
+    // color: var(--body-text-color);
+    font-weight: normal;
+    font-size: 1.5rem;
+  }
+
+.footnote-body {
+    margin-top: -3em;
+    margin-left: 1em;
+}
