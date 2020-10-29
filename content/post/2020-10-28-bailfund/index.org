@@ -1,5 +1,5 @@
 #+TITLE: Supporting Protesters and Communities with Bail Funds
-#+DESCRIPTION: Help both protestors and the larger community in Philadelphia (or anywhere else) by funding local bail funds
+#+DESCRIPTION: Help both protestors and the larger community in Philadelphia (or anywhere else) by donating to local bail funds
 #+DATE: 2020-10-28T21:00:00-04:00
 #+IMAGE: protest-header.jpg
 #+TAGS[]: local criminaljustice protest donation
