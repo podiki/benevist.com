@@ -1,0 +1,28 @@
+#+TITLE: Supporting Protesters and Communities with Bail Funds
+#+DESCRIPTION: Help both protestors and the larger community in Philadelphia (or anywhere else) by funding local bail funds
+#+DATE: 2020-10-28T21:00:00-04:00
+#+IMAGE: protest-header.jpg
+#+TAGS[]: local criminaljustice protest donation
+#+ATTR_HTML: :class article-content
+
+* What's the Cause?
+/It is cruel to keep people in jail solely over their inability to afford bail, especially with a pandemic that is rampant in jails and prisons. This has been highlighted recently with the surge in protests and protesters swept up by police, but is a systemic problem./
+
+* What Can We Do?
+/Long term we can work to end cash bail, and more immediately we can donate to community groups that provide bail to community members that can't afford to pay. If you want to help the protesters being arrested in Philadelphia, donate to the *[[https://www.phillybailfund.org/donate][Philadelphia Bail Fund]]* or *[[https://www.aplos.com/aws/give/PhiladelphiaCommunityBailfund/general][Philadelphia Community Bail fund]]*. Otherwise, you can find your area on the *[[https://bailfunds.github.io/][list of bail funds for protestors]]*./
+
+* Read More
+The most recent high-profile killing of a Black person by police happened in West Philadelphia earlier this week: Walter Wallace Jr.[fn:1] was killed in front of his own mother and community in broad daylight by Philadelphia police. This has spurred protests in the city over yet another senseless and tragic act of police violence. I don't know what I have to add here that hasn't been said and shouted before, especially during this past summer of protest and uprising.
+
+We may feel powerless as this happens again and again, but there is much we can do. Right now I just want to highlight supporting community bail funds. Most immediately these are resources that help bail out people arrested, for instance, during protests and are unable to afford bail. Cash bail for such actions, and many others, is not justice and only does harm. This is all the more true as the coronavirus rages across this country, especially in prison populations that have the basically no health resources.
+
+Community bail funds are for so much more than just times of protest and pandemic. These funds help ensure people can be with their families, work their jobs, get real help if they need it, and be a part of society rather than caged because they don't have enough money. It is only a bandage over the larger issue of cash bail, which is only part of the larger problem of criminal justice in this country. But it is somewhere we can start and have immediate impact with even a few dollars.
+
+For Philadelphia, the links at the top will take you directly to donate to the two local bail funds, and their homepages are: [[https://www.phillybailout.org/][Philadelphia Community Bail Fund]] and [[https://www.phillybailfund.org/][Philadelphia Bail Fund]]. And the above list of bail funds for protesters draws from the [[https://www.communityjusticeexchange.org/nbfn-directory][National Bail Fund Network]]. You can read more about bail and bail funds from these organizations' websites.
+
+Walter Wallace Jr. and his tragic story is making national news, but if you prefer to read locally, take a look at the coverage at [[https://billypenn.com/stories/walter-wallace-jr/][Billy Penn]], [[https://www.inquirer.com/search/walter+wallace+jr/score/?searchKeywords=walter%20wallace%20jr][The Philadelphia Inquirer]], and [[https://www.phillytrib.com/search/?l=25&sort=relevance&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&nsa=eedition&q=walter+wallace+jr][The Philadelphia Tribune]], among other places. Independent news outlets like [[https://www.democracynow.org/2020/10/28/walter_wallace_jr_marc_lamont_hill][Democracy Now!]] also provide coverage beyond the national headlines.
+
+#+ATTR_HTML: :class credits
+Header [[https://unsplash.com/photos/CVvOhaqIjSk][photo]] from a Black Lives Matter protest earlier in the summer, by [[https://unsplash.com/@koshuuu][Koshu Kunii]] on [[https://unsplash.com][Unsplash]].
+
+[fn:1] There is also a [[https://www.gofundme.com/f/92wvm-funding-for-family][GoFundMe for the family]], which has raised over $150,000.
