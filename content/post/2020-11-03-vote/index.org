@@ -1,0 +1,40 @@
+#+TITLE: Vote! Help Others Vote!
+#+DESCRIPTION: The day is finally here, and for all the US election system's flaws, there's still a chance to make the people's voice heard.
+#+DATE: 2020-11-03T10:30:00-04:00
+#+IMAGE: vote-header.jpg
+#+TAGS[]: voting democracy donation local
+# +ATTR_HTML: :class article-content
+
+* What's the Cause?
+/Vote. It should be that simple, but the US is rather backwards when it comes to doing democracy. So we find a mess of different rules, lawsuits, deadlines, suppression efforts, and on and on. While the battle rages long before (and after) Election Day, on the actual day we can still do much to help./
+
+* What Can We Do?
+/First off, if you can and haven't, go vote! To quickly find out the info you need and the latest happenings for your area try *[[https://www.vote.org/][Vote.org]]*, *[[https://www.washingtonpost.com/elections/2020/how-to-vote/][The Washington Post guide]]*, or *[[https://projects.fivethirtyeight.com/how-to-vote-2020/][FiveThirtyEight]]*. If you can't vote, or already have, there's still a lot you can do, from reminding people to vote to sending food to long lines. Options below./
+
+* Read More
+There's a lot to be said about this election in particular and the rather messed up way elections are run in the US. There will be more work to be done after, as voting is just one small step, but let's focus on what we can do /today/ to make this as easy and representative as possible.
+
+Below are some links for information for yourself or to send to those that might need it, as well as helping get out the vote, get people to voting locations and being fed while stuck on long lines. Of course, now is a good time to make sure everyone you know has voted. And if you can't vote for whatever reason, remind those that can that they are also representing you. There's a lot at stake, just as much for those that can't vote whether too young, disenfranchised, or otherwise unable to.
+
++ Voting resources
+  - [[https://www.nfb.org/resources/voting-resources][Resources for blind voters]] from The National Federation of the Blind
+  - [[https://www.advancingjustice-alc.org/know-your-voting-rights/][Helpful info in many Asian languages]] from the Asian Americans Advancing Justice and Asian Law Caucus
+  - [[https://866ourvote.org/][The Election Protection Hotlines]] (866-OUR-VOTE for English, and available in many languages) is there for any problems with voting or questions
+  - and the links above for local voting information from [[https://www.vote.org/][Vote.org]], [[https://www.washingtonpost.com/elections/2020/how-to-vote/][The Washington Post guide]], or [[https://projects.fivethirtyeight.com/how-to-vote-2020/][FiveThirtyEight]]
+
++ Help get out the vote
+  - [[https://votesaveamerica.com/more-gotv/][Vote Save America]]
+  - [[https://indivisible.org/][Indivisible]]
+  - [[https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/voting-rights/how-to-help-protect-our-elections-and-get-out-the-vote/][The American Bar Association]] has a list of organizations to get out the vote, protect the vote, and more
+
++ Get to the polls and help people waiting
+  - [[https://news.yahoo.com/people-making-easier-vote-free-215917950.html][Discounted or free transportation]]
+  - [[https://votolatino.org/freeride/][Voto Latino]] has discount codes as well
+  - [[https://polls.pizza/][Pizza to the Polls]] will send pizza to long lines, just tell them where and/or donate
+  - [[https://www.feedthepolls.org/][Feed The Polls]] is also helping feed voters waiting
+  - and more ideas like driving your neighbors, handing out chairs or snacks [[https://www.apartmenttherapy.com/how-to-support-voters-on-election-day-36837899][on this list]]
+
+Be safe everyone, and remember we won't have complete or even very many results tonight. It is up to us to stay vigilant and make sure this election is as fair as possible and every vote is counted.
+
+#+ATTR_HTML: :class credits
+Header [[https://unsplash.com/photos/ls8Kc0P9hAA][photo]] by [[https://unsplash.com/@element5digital][Element5 Digital]] on [[https://unsplash.com][Unsplash]].
