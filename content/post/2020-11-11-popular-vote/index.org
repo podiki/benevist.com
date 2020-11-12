@@ -1,0 +1,32 @@
+#+TITLE: We Need A Popular Vote
+#+DESCRIPTION: This past week we were reminded, again, of how dysfunctional the Electoral College system is and why we need a popular vote for president.
+#+DATE: 2020-11-11T20:00:00-04:00
+#+IMAGE: pop-vote-header.jpg
+#+TAGS[]: voting democracy local letter-writing
+
+* What's the Cause?
+/The president of the United States is not elected directly by the people, but by electors as part of the Electoral College. This means the loser of the popular vote (as in 2000 and 2016) can actually become the president, clearly not representing the will of the people. Or, like this year, the clear majority in the popular vote is ignored to focus on the race for the Electoral College. This system also favors white Americans over everyone else./
+
+* What Can We Do?
+/We don't need to change the Constitution: states can award their electoral votes to the popular vote winner, effectively making the popular vote decide the election. The *[[https://www.nationalpopularvote.com/][National Popular Vote]]* compact is a proposal to make that happen, but it does not have a majority of states yet. On their website you are just a few clicks away from sending a message directly to your legislators (or writing to your local newspapers) in support of a national popular vote./
+
+* Read More
+The United States has, at best, a twisted sense of democracy. One person does not mean one vote, even leaving aside the important issues disenfranchisement, voter intimidation, and other oppressive tactics. It is only the Electoral College votes that actually determine the winner of the presidential election.
+
+Some votes just matter more: Wyoming has about 143,000 people per electoral vote, while California has over 508,000 people per vote, [[http://www.slate.com/articles/news_and_politics/map_of_the_week/2012/11/presidential_election_a_map_showing_the_vote_power_of_all_50_states.html][based on 2010 Census data of voting age residents]]. (This also reflects the unequal representation at the federal level.) Not surprisingly, this is another legacy of slavery in giving slave states power and representatives based on the number of enslaved people (for example, the three-fifths compromise).
+
+With a winner-take-all system in nearly every state, voters not in the majority basically mean nothing in electing the president. The candidate with the most votes in a state gets all of the Electoral College votes, leading to our election nights of following just a few states that are not obviously in one camp or the other.
+
+However, the effort towards a [[https://www.nationalpopularvote.com/][National Popular Vote]] has been growing, with [[https://www.npr.org/2020/11/06/931891674/as-presidency-hinges-on-a-handful-of-states-some-have-made-a-popular-vote-pact][Colorado passing a proposition reaffirming support]]. Currently 15 states and D.C., with a combined 196 electoral votes, are part of a compact to award their electoral votes to the popular winner. This will go in effect once enough states have joined to represent a majority of the Electoral College, with 270 votes. Then the presidential election will be  [[https://www.democracynow.org/2020/10/30/jesse_wegman_abolish_electoral_college][won by the popular vote winner]], no matter which states were "won," without needing to change the Constitution (while there is [[https://www.vox.com/2020/11/4/21530891/colorado-proposition-113-national-popular-vote-compact-results][some argument over the legality]], it is generally considered on good legal footing).
+
+#+ATTR_HTML: :alt Image showing US states with size by number of campaign events in 2016, with missing states having no events. :title State size based on 2016 campaign events
+#+ATTR_HTML: :style padding: 0 var(--card-padding);
+#+CAPTION: States sized by number of campaign events in 2016, with missing states having no events (Image from [[https://www.nationalpopularvote.com/written-explanation][National Popular Vote]])
+[[file:2016-campaign-map.png]]
+
+While some try to argue that the current system is helpful in that it values (really, overvalues) rural areas, this simply ignores the principle of "one person, one vote." And drilling down further, the current Electoral College system is yet another way voters of color are disadvantaged. So-called battleground states in the Electoral College give [[https://www.buzzfeednews.com/article/johntemplon/the-electoral-college-still-favors-white-voters][white Americans significantly more voting power]], the contribution to a candidate winning or not. Overall, white, non-Hispanic voters have about 20% more power than Black voters, and almost *twice* the power of Asian voters.
+
+There's a lot of work to be done to improve democracy in the US. One way we can start is by making the popular vote, and thus everyone's vote, actually count. The National Popular Vote website has a [[https://www.nationalpopularvote.com/written-explanation][detailed explanation]], [[https://www.nationalpopularvote.com/answering-myths][answers myths]], the [[https://www.nationalpopularvote.com/state-status][status of each state]], and lets you write directly to your representatives, including helpful templates, as well as linking to local newspapers to write to. For example, here's the [[https://www.nationalpopularvote.com/state/pa][page for Pennsylvania]]. Time for me to write my letter.
+
+#+ATTR_HTML: :class credits
+Header image from [[https://www.nationalpopularvote.com/][nationalpopularvote.com]].
